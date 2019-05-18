@@ -1,0 +1,36 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #eee;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+span {
+    font-weight: normal;
+    font-size: 80%;
+}
+
+.lien {
+    background: white;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+form {
+    display : none;
+}
+
+form p {
+    display: inline;
+}
+
+button {
+    margin-bottom: 30px;
+}
+
+#info {
+    text-align: center;
+    line-height: 70px;
+    background-color: rgba(34, 74, 251, 0.5);
+    opacity: 0.8;
+}
