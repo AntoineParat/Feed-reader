@@ -18,4 +18,4 @@ form.
 
 3 - Using HTML Forms to add a link.
 
-4 - Sending it to the server (still with Fetch API and its 'post' method).
+4 - Posting it to the server.
