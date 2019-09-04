@@ -1,5 +1,6 @@
 # Feed-Reader
----
+
+![enter image description here](https://www.antoineparat.com/img/feed.png)
 
 A tiny app to share links with others.
 
