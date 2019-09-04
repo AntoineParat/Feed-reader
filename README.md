@@ -1,7 +1,7 @@
 # Feed-Reader
 ---
 
-This project is a part of [Openclassrooms](https://openclassrooms.com/fr/courses/3306901-creez-des-pages-web-interactives-avec-javascript)' JS courses. 
+A tiny app to share links with others.
 
 ## Sharing links
 
